@@ -16,3 +16,6 @@ The structure acts as a **Helmholtz Resonator**. When seismic frequencies from t
 
 ---
 *Note: This is an open-source engineering project aimed at replicating these effects in small-scale models.*
+![Esquema de Pressão](media/1777677883855.png)
+![Efeito Piezoelétrico](media/1777677888048.png)
+![Sistema de Transmissão](media/1777677893910.png)
