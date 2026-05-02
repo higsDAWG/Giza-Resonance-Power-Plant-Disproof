@@ -1,5 +1,30 @@
-# Giza-Resonance-Power-Plant
+⚡ MANIFEST OF THE NEW PHYSICS: THE GIZA REACTOR
+
+"History is a set of lies that people have agreed upon. Physics, however, does not lie."
+
+This repository is not about archaeology. It's about Free Energy Engineering.
+
+The Great Pyramid of Giza was never a tomb. Mummies don't need piezoelectric reactors. Dead kings don't need ionospheric transmission. What the world calls a "monument" is, in fact, the largest piece of semiconductor hardware ever built on Earth.
+
+🚫 The End of Dogma
+
+We are here to prove that the official narrative of "tombs and slaves" is a smokescreen to hide an energetic truth:
+
+It's not Masonry, it's Semiconductor: The use of Pink Granite (Quartz) under 6 million tons of pressure is not aesthetic; it's the generation of electrical charge by compression.
+
+It's not Geometry, it's Resonance: The structure is a standing wave amplifier tuned to the Earth's frequency.
+
+It's not Darkness, it's Light: The top of the pyramid injected energy into the ionosphere. Free energy. Wireless energy. The same energy Nikola Tesla tried to rediscover and was prevented from doing.
+
+🌍 Why 2026?
+
+Humanity has reached the limit of combustion. The current system depends on scarcity. The GRPPP (Giza Resonance Power Plant Protocol) aims to decentralize energy. If the Earth vibrates, the energy is infinite.
+
+This repository contains the first building blocks for the reconstruction of this technology. We are not asking permission to discover new physics; we are publishing it.
+
+ # Giza-Resonance-Power-Plant
 Technical analysis and mathematical modeling of the Great Pyramid as a large-scale piezoelectric transducer.
+
 # Giza Resonance Power Plant Protocol (GRPPP)
 ## Engineering Analysis of Large-Scale Piezoelectric Transduction
 
