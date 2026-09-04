@@ -1,4 +1,5 @@
-"Technical analysis and mathematical modeling of the Great Pyramid as a large-scale piezoelectric transducer" is wrong and here's why.
+"TECHNICAL ANALYSIS AND MATHEMATICAL MODELING OF THE GREAT PYRAMID AS A LARGE-SCALE PIEZOELECTRIC TRANSDUCER" IS WRONG AND HERE'S WHY.
+
 The Great Pyramids cannot plausibly function as a large-scale piezoelectric transducer. The claim fails on basic materials science (no bulk piezoelectric medium or alignment), mechanics (stresses and strains are too small or static), electrodynamics (leakage and lack of electrodes kills any usable voltage/current), and simple order‑of‑magnitude estimates. Below I give the core conceptual rebuttals, straightforward calculations that close the case numerically, and practical experiments/measurements that would decisively falsify the page’s claim. 
 
 What I checked and did
