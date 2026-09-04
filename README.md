@@ -83,4 +83,4 @@ Conclusion
 
 The claim collapses under simple physics: you need aligned, low‑loss piezoelectric material plus electrodes and dynamic strain to get power out. The pyramid is an unpoled, damped masonry structure with surface moisture, finite conductivity, and random mineral orientation. Order‑of‑magnitude estimates and simple measurements both show any piezoelectric effect is essentially zero and cannot produce useful voltage, current, or the exotic phenomena the page claims.
 
-This claim is not finished. I will come back sometimes to improve and revise the proof.
+Note: This claim is not finished. I will come back sometimes to improve and revise the proof.
