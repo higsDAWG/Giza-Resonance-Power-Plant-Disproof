@@ -1,4 +1,4 @@
-TIAGOBERTOLO'S CLAIM THAT "TECHNICAL ANALYSIS AND MATHEMATICAL MODELING OF THE GREAT PYRAMID AS A LARGE-SCALE PIEZOELECTRIC TRANSDUCER" IS WRONG AND HERE'S WHY.
+TIAGOBERTOLO'S CLAIM "TECHNICAL ANALYSIS AND MATHEMATICAL MODELING OF THE GREAT PYRAMID AS A LARGE-SCALE PIEZOELECTRIC TRANSDUCER" IS WRONG AND HERE'S WHY.
 
 To start off, the text in the README file is clearly AI-generated. It uses the form "It's not X it's Y" format a lot and also has a lot of emojis before the headers, which are both commonly used by AI. The pictures are also mislabeled and one of them uses the wrong pyramid. This means the images are likely AI-generated too.
 
