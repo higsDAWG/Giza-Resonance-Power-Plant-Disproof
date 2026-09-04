@@ -30,7 +30,7 @@ It assumes the entire meter‑thick slab is a single, uniformly poled piezoelect
 It ignores screening and leakage (see below).
 It ignores that the piezoelectric coefficient used is for a well-oriented crystal; random orientation in rock reduces the effective d by many orders of magnitude (roughly as 1/√N for N randomly oriented grains).
 Charge per m^2: Q = D·A1 ≈ 2.3×10^-6 C for A1 = 1 m^2. If that charge were collected over 1 s, the current would be ~2.3 μA per m^2 — tiny.
-Even if you multiply by the whole base area (unrealistic full coherence), Q_total ≈ D·A ≈ 0.12 C and if discharged in 1 s that’s 0.12 A. But coherent summation over millions → impossible because grains are randomly oriented and internal charges cancel; you would need the stones poled and electrically connected like electrodes to add coherently.
+Even if you multiply by the whole base area (unrealistic full coherence), Q_total ≈ D·A ≈ 0.12 C and if discharged in 1 s that’s 0.12 A. But coherent summation over millions is impossible because grains are randomly oriented and internal charges cancel; you would need the stones poled and electrically connected like electrodes to add coherently.
 
 Leakage and screening kill any static effect
 
@@ -42,7 +42,7 @@ Practical consequence: static compressive stress cannot produce a steady high vo
 
 Coherence and orientation
 
-Building stones are polycrystalline aggregates. Piezoelectricity from individual mineral grains (e.g., trace quartz) is vectorial; without poling the vector sum over an astronomically large number of randomly oriented grains is essentially zero. You would need engineered poling or single-crystal continuity across many meters — which the pyramid does not have.
+Building stones are polycrystalline aggregates. Piezoelectricity from individual mineral grains (e.g., trace quartz) is vectorial; without poling the vector sum over an astronomically large number of randomly oriented grains is essentially zero. You would need engineered poling or single-crystal continuity across many meters which the pyramid does not have.
 
 Mechanical drive and resonance problems
 
@@ -52,7 +52,7 @@ Exciting the whole structure at a mechanical resonance with sufficient amplitude
 Bottom-line numerical intuition
 
 Even taking wildly optimistic assumptions (uniform, aligned piezoelectric stone with quartz‑like d and no leakage), you get tiny currents unless you unphysically assume perfect coherence over the whole structure. Real materials, random orientation, contacts, and leakage reduce any electrical signal by many orders of magnitude. The result: effectively zero usable power or signal.
-Direct experiments or measurements that decisively disprove the page These are simple, reproducible, and inexpensive measurements.
+Direct experiments or measurements that decisively disprove the page. These are simple, reproducible, and inexpensive measurements.
 
 A. On an individual stone block (controlled)
 
@@ -82,3 +82,5 @@ Such phenomena are small, transient, and require freshly stressed/fracturing roc
 Conclusion
 
 The claim collapses under simple physics: you need aligned, low‑loss piezoelectric material plus electrodes and dynamic strain to get power out. The pyramid is an unpoled, damped masonry structure with surface moisture, finite conductivity, and random mineral orientation. Order‑of‑magnitude estimates and simple measurements both show any piezoelectric effect is essentially zero and cannot produce useful voltage, current, or the exotic phenomena the page claims.
+
+This claim is not finished. I will come back sometimes to improve and revise the proof.
